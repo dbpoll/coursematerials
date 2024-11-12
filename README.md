@@ -1,20 +1,20 @@
-# Project Name
+# Teaching Materials
 
 A brief description of what this project does and its purpose. 
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Differential Equations](#differential-equations)
+- [Mathematical Modeling](#mathematical-modeling)
+- [Computational Neuroscience](#computational-neuroscience)
+- [Multivariate Calculus](#multivariate-calculus)
 
-## Demonstrations
+## Differential Equations
 
-## Usage
+## Mathematical Modeling
 
-## Contributing
+## Computational Neuroscience
 
-## License
+## Multivariate Calculus
 
-None. 
+to write 
