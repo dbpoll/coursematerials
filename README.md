@@ -38,9 +38,11 @@ Key things to mention:
 
 ### Linear Algebra
 
-- showcase projects (markov chain, traffic flow, etc.)
-- include student project (john (?))
-- coding samples from old linear algebra (SVD for image comp, catmap, etc.)
+Another course I have taught while at the College of Charleston is Linear Algebra. This is a sophomore-level course that was taken by students planning to major in most STEM fields with some small exceptions. Students in my course primarily consisted of engineering, physics, data science, and mathematics students. The course followed a standard lecture and exam format with the additional of worksheet and project components. During lecture, I wrote snippets of code in MATLAB to demonstrate examples given in-class (an early lecture slide is viewable here). 
+
+The worksheets were assigned every few weeks. The worksheets were typically applications of lecture topics or additional topics students may not commonly see. For example, the first worksheet (viewable here) focused on applications of linear systems. This included traffic modeling, spline interpolation, and transformation of an exponential function. The last worksheet (viewable here) provided a simple calculation of eigenvalues and eigenvectors. Then, discussed the derivation of the power method to approximate the largest eigenvalue.
+
+The project (rubric viewable here) was an assessment given at the end of the semester for students to utilize what they had learned during the course. The students were tasked with finding one (or more) peer-reviewed journals that used methods discussed in-class. The students were then asked to summarize the results and discuss how the methods from class were used to address questions within the paper.
 
 ### Mathematical Modeling
 
