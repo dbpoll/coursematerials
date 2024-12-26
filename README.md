@@ -42,7 +42,7 @@ Another course I have taught while at the College of Charleston is Linear Algebr
 
 The worksheets were assigned every few weeks. The worksheets were typically applications of lecture topics or additional topics students may not commonly see. For example, the first worksheet [here](viewable linear_algebra_worksheet1.pdf) focused on applications of linear systems. This included traffic modeling, spline interpolation, and transformation of an exponential function. The last worksheet (viewable [here](linear_algebra_worksheet5.pdf)) provided a simple calculation of eigenvalues and eigenvectors. Then, discussed the derivation of the power method to approximate the largest eigenvalue.
 
-The project (rubric viewable [here](linear_algebra_project_rubric.pdf)) was an assessment given at the end of the semester for students to utilize what they had learned during the course. The students were tasked with finding one (or more) peer-reviewed journals that used methods discussed in-class. The students were then asked to summarize the results and discuss how the methods from class were used to address questions within the paper.
+The project (rubric viewable [here](linear_algebra_project_rubric.pdf)) was an assessment given at the end of the semester for students to utilize what they had learned during the course. The students were tasked with finding one (or more) peer-reviewed journals that used methods discussed in-class. The students were then asked to summarize the results and discuss how the methods from class were used to address questions within the paper. For ambitious students, I included a bonus to write their project in LaTeX. 
 
 ### Mathematical Modeling
 
