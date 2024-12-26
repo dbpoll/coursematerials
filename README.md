@@ -10,7 +10,7 @@ This repository provides a sample of teaching materials used during my time in a
 - [Numerical Analysis](#numerical-analysis)
 - [Linear Algebra](#linear-algebra)
 - [Mathematical Modeling](#mathematical-modeling)
-- [Calculus](#introductory-and-multivariate-calculus)
+- [Introductory and Multivariable Calculus](#introductory-and-multivariate-calculus)
 
 ### Northwestern University
 
