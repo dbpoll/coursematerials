@@ -46,6 +46,8 @@ The worksheets were assigned every few weeks. The worksheets were typically appl
 
 The project (rubric viewable [here](linear_algebra_project_rubric.pdf)) was an assessment given at the end of the semester for students to utilize what they had learned during the course. The students were tasked with finding one (or more) peer-reviewed journals that used methods discussed in-class. The students were then asked to summarize the results and discuss how the methods from class were used to address questions within the paper. For ambitious students, I included a bonus to write their project in LaTeX. 
 
+<br/>
+
 ### Mathematical Modeling
 
 Previously, I ran an independent study for a mathematics and biology undergraduate who was interested in applying techniques learned from previous classes to biological models (syllabus here). The student and I met approximately once a week to discuss relevant chapters from the assigned reading, discuss questions from previous homework and projects, or to address any coding errors. The course consisted of understanding dynamics and introductory stochastic processes. Homework (example here) and projects (example here) were written based on the topics covered but framed using biological models from literature. The student has since moved on to a PhD program at UC Davis.
