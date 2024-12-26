@@ -36,6 +36,7 @@ Key things to mention:
 - Project samples (link Kevin spatial modeling potentially)
 - Explain that course assessment materials won't be posted publicly
 
+<br/>
 ### Linear Algebra
 
 Another course I have taught while at the College of Charleston is Linear Algebra. This is a sophomore-level course that was taken by students planning to major in most STEM fields with some small exceptions. Students in my course primarily consisted of engineering, physics, data science, and mathematics students. As a result, the course focused on theory and techniques, but I included an optional coding component. The course followed a standard lecture and exam format with the additional of worksheet and project components. During lecture, I wrote snippets of code in MATLAB to demonstrate examples given in-class. An early lecture slide is viewable [here](linear_algebra_lecture02-gauss.pdf). 
