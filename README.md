@@ -17,11 +17,11 @@ This repository provides a sample of teaching materials used during my time in a
 - [Computational Neuroscience](#computational-neuroscience)
 - [Differential Equations](#differential-equations)
 
-### Potential Student Projects
+### Previous and Potential Student Projects
 
-- Maybe include this, cover search strategy ideas with video
 - Inhibitory synapse inclusion into neuron model
 - death/decay separation for roots
+- Search strategy ideas with video
 
 
 
@@ -75,15 +75,18 @@ Previously, I ran an independent study for a mathematics and biology undergradua
 - samples of old assignments (if can find)
 
 
-## Research Mentoring Materials
+## Previous and Potential Student Projects
 
-This will go in its own branch
+### Localized Enhancement of Synaptic Plasticity
 
-## master's student
+- discuss Zihan's work and future project
+- Inhibitory synapse inclusion into neuron model
+  
+### Estimation of Root Turnover 
 
-Discuss Luke's project and his contributions
+- discuss Luke's work, and my work on this
+- death/decay separation for roots
 
-## undergraduate student
-
-Discuss Zihan's project, include video, etc. 
+### Competitive and Cooperative Ballistic Search
+- Search strategy ideas with video
 
