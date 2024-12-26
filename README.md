@@ -1,6 +1,6 @@
 # Teaching and Course Materials
 
-This repository provides a sample of teaching materials used during my time in academia. The examples are a mixture of applied mathematics projects that I have assigned, projeection submission from students, and code I have used for demonstrations. 
+This repository provides a sample of teaching and student supervision materials used during my time as a postdoctoral fellow and assistant professor. The examples are a mixture of applied mathematics projects that I have assigned, projection submission from students, and code I have used for demonstrations. 
 
 <br/><br/>
 ## Quick Links
