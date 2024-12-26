@@ -36,7 +36,7 @@ Key things to mention:
 - Project samples (link Kevin spatial modeling potentially)
 - Explain that course assessment materials won't be posted publicly
 
-<br/><br/>
+<br/>
 
 ### Linear Algebra
 
