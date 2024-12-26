@@ -46,9 +46,13 @@ The project (rubric viewable [here](linear_algebra_project_rubric.pdf)) was an a
 
 ### Mathematical Modeling
 
-- explain independent study
-- showcase a project
-- sample of old assignment or two
+Previously, I ran an independent study for a mathematics and biology undergraduate who was interested in applying techniques learned from previous classes to biological models (syllabus here). The student and I met approximately once a week to discuss relevant chapters from the assigned reading, discuss questions from previous homework and projects, or to address any coding errors. The course consisted of understanding dynamics and introductory stochastic processes. Homework (example here) and projects (example here) were written based on the topics covered but framed using biological models from literature. The student has since moved on to a PhD program at UC Davis.
+
+
+### Introductory and Multivariate Calculus
+
+- possibly cut, include regression project maybe 
+
 
 
 ## Northwestern University
@@ -65,11 +69,6 @@ The project (rubric viewable [here](linear_algebra_project_rubric.pdf)) was an a
 - old demonstrations?
 - discuss pplane dfield usage
 - samples of old assignments (if can find)
-
-
-### Introductory and Multivariate Calculus
-
-- possibly cut, include regression project maybe 
 
 
 ## Research Mentoring Materials
