@@ -79,8 +79,10 @@ Previously, I ran an independent study for a mathematics and biology undergradua
 
 ### Localized Enhancement of Synaptic Plasticity
 
-- discuss Zihan's work and future project
-- Inhibitory synapse inclusion into neuron model
+As part of my work at Northwestern, an undergraduate student helped develop a model of spatial localized plasticity. Inputs that were localized along the dendritic branch and correlated in time caused the largest changes in synaptic plasticity. One such simulation can be seen as a video below:
+
+
+
   
 ### Estimation of Root Turnover 
 
