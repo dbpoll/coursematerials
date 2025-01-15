@@ -19,7 +19,7 @@ This repository provides a sample of teaching and student supervision materials 
 
 ### Previous and Potential Student Projects
 
-- Inhibitory synapse inclusion into neuron model
+- [Localized Plasticity Models](#localized-enhancement-of-synaptic-plasticity)
 - death/decay separation for roots
 - Search strategy ideas with video
 
