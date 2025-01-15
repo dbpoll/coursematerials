@@ -50,7 +50,7 @@ The project (rubric viewable [here](linear_algebra_project_rubric.pdf)) was an a
 
 ### Mathematical Modeling
 
-Previously, I ran an independent study for a mathematics and biology undergraduate who was interested in applying techniques learned from previous classes to biological models (syllabus [here](math_modeling__syllabus.pdf). The student and I met approximately once a week to discuss relevant chapters from the assigned reading, discuss questions from previous homework and projects, or to address any coding errors. The course consisted of understanding dynamics and introductory stochastic processes. Homework (example [here](math_modeling_hw1.pdf)) and projects (example [here](math_modeling_project2.pdf)) were written based on the topics covered but framed using biological models from literature. The student has since moved on to a PhD program at UC Davis.
+Previously, I ran an independent study for a mathematics and biology undergraduate who was interested in applying techniques learned from previous classes to biological models (syllabus [here](math_modeling__syllabus.pdf)). The student and I met approximately once a week to discuss relevant chapters from the assigned reading, discuss questions from previous homework and projects, or to address any coding errors. The course consisted of understanding dynamics and introductory stochastic processes. Homework (example [here](math_modeling_hw1.pdf)) and projects (example [here](math_modeling_project2.pdf)) were written based on the topics covered but framed using biological models from literature. The student has since moved on to a PhD program at UC Davis.
 
 
 ### Introductory and Multivariate Calculus
