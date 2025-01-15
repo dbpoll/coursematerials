@@ -97,5 +97,9 @@ https://github.com/user-attachments/assets/f026a3a3-eba4-499c-88e7-b8d07979a71a
 
 Some previous graduate work focused on a searcher making ballistic, linear trajectories around a domain to search for a target. Some extensions could be developed, such as including multiple searchers who use a competitive or cooperative strategy to find the target(s). A simple visualization of the search simulation is below:
 
+https://github.com/user-attachments/assets/54b81c93-bea1-4d93-a445-d338953f8c89
+
+
+
 
 
