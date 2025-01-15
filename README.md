@@ -61,7 +61,7 @@ Previously, I ran an independent study for a mathematics and biology undergradua
 
 ## Northwestern University
 
-I have unfortunately lost many of my materials from Northwestern. However, I will speak a bit about the topics and, time permitting, reproduce some old work.
+I have unfortunately lost many of my digital materials from teaching at Northwestern. However, I will speak a bit about the topics and, time permitting, reproduce some old work.
 
 ### Computational Neuroscience
 
@@ -72,9 +72,7 @@ I have unfortunately lost many of my materials from Northwestern. However, I wil
 
 ### Differential Equations
 
-- old demonstrations?
-- discuss pplane dfield usage
-- samples of old assignments (if can find)
+The differential equations course at Northwestern was called Engineering Analysis 4 (EA4). It covered most topics seen in a typical standard differential equations class. However, since the course was geared towards engineers, it heavily emphasized numerics as part of the course. A snippet of a couple days of hand-written lecture notes can be found here.
 
 
 ## Previous and Potential Student Projects
