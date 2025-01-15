@@ -55,7 +55,7 @@ Previously, I ran an independent study for a mathematics and biology undergradua
 
 ### Introductory and Multivariate Calculus
 
-Although service courses focus on lecture and a set of required topics, I tend to assign additional questions during homework or projects that begin to touch on ways students may use some of the topics they are learning in the class. A sample syllabus that illustrates my course structure for calculus classes can be found here. Two examples of homework assignments with some additional personally written problems can be found here and here. A project discussing ways to use optimization can also be found here.
+Although service courses focus on lecture and a set of required topics, I tend to assign additional questions during homework or projects that begin to touch on ways students may use some of the topics they are learning in the class. A sample syllabus that illustrates my course structure for calculus classes can be found [here](multicalc_syllabus.pdf). Two examples of homework assignments with some additional personally written problems can be found [here](multicalc_hw4.pdf) and [here](multicalc_hw9.pdf). A project discussing ways to use optimization can also be found [here](multicalc_project2.pdf).
 
 
 
