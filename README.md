@@ -81,7 +81,6 @@ Previously, I ran an independent study for a mathematics and biology undergradua
 
 As part of my work at Northwestern, an undergraduate student helped develop a model of spatial localized plasticity. Voltage and calcium signals were modeled. Inputs that were localized along the dendritic branch and correlated in time caused the largest changes in synaptic plasticity. One such simulation can be seen as a video below:
 
-
 https://github.com/user-attachments/assets/f026a3a3-eba4-499c-88e7-b8d07979a71a
 
 
@@ -95,5 +94,8 @@ https://github.com/user-attachments/assets/f026a3a3-eba4-499c-88e7-b8d07979a71a
 - death/decay separation for roots
 
 ### Competitive and Cooperative Ballistic Search
-- Search strategy ideas with video
+
+Some previous graduate work focused on a searcher making ballistic, linear trajectories around a domain to search for a target. Some extensions could be developed, such as including multiple searchers who use a competitive or cooperative strategy to find the target(s). A simple visualization of the search simulation is below:
+
+
 
