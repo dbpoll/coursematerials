@@ -19,9 +19,9 @@ This repository provides a sample of teaching and student supervision materials 
 
 ### Previous and Potential Student Projects
 
-- [Localized Plasticity Models](#localized-enhancement-of-synaptic-plasticity)
-- death/decay separation for roots
-- Search strategy ideas with video
+- [Localized Plasticity Model](#localized-enhancement-of-synaptic-plasticity)
+- [Root Turnover Model](#estimation-of-root-turnover)
+- [Ballistic Search Strategies](#competitive-and-cooperative-ballistic-search)
 
 
 
