@@ -90,7 +90,7 @@ https://github.com/user-attachments/assets/f026a3a3-eba4-499c-88e7-b8d07979a71a
   
 ### Estimation of Root Turnover 
 
-In some recent projects, I worked with a graduate student to develop a model of root turnover based on carbon isotope data taken from the DUKE forest, starting with regression based approaches. We have since continued to develop the model and have discovered that regression alone isn't sufficient to accurately describe the data. In fact, the updated model predicts a biomodal behavior after around one-year, which explains the increased variance seen in the empirical data. Below is a pseudcolor plot for the model, along with other various fitting approaches, and the empirical variance as compared to the updated model, which is separated by root order:
+In some recent projects, I worked with a graduate student to develop a model of root turnover based on carbon isotope data taken from the DUKE forest, starting with regression based approaches. We have since continued to develop the model and have discovered that regression alone isn't sufficient to accurately describe the data. In fact, the updated model predicts a biomodal behavior after around one-year, which explains the increased variance seen in the empirical data. This seems to be the critical period when older fine roots exist, but production of new fine roots has also began. Below is a pseudcolor plot for the model, along with other various fitting approaches, and the empirical variance as compared to the updated model, which is separated by root order:
 
 ![rootplot](https://github.com/user-attachments/assets/9eedb84e-b499-4812-99cb-4b723d1bdf2d)
 
