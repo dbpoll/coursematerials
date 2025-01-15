@@ -61,6 +61,8 @@ Previously, I ran an independent study for a mathematics and biology undergradua
 
 ## Northwestern University
 
+I have unfortunately lost many of my materials from Northwestern. However, I will speak a bit about the topics and, time permitting, reproduce some old work.
+
 ### Computational Neuroscience
 
 - simple hodgkin-huxley code
