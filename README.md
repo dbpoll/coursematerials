@@ -31,10 +31,7 @@ This repository provides a sample of teaching and student supervision materials 
 
 ### Numerical Analysis
 
-Key things to mention:
-- Juypter notebook for lecture (embed? if possible, otherwise screenshot)
-- Project samples (link Kevin spatial modeling potentially)
-- Explain that course assessment materials won't be posted publicly
+This course sequence was cross-listed as a senior undergraduate course and a graduate-level course. The students were primarily graduate students. A sample syllabus from the first semester can be found here. Samples of notes, which were written in Jupyter notebooks, can be seen here and here. Finally, students were required to complete a project as part of their assessment. Using techniques from class, students were requested to find and reproduce results in a peer-reviewed paper. A sample of one student's submission can be found here.
 
 <br/>
 
