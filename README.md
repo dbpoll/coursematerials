@@ -81,7 +81,10 @@ Previously, I ran an independent study for a mathematics and biology undergradua
 
 As part of my work at Northwestern, an undergraduate student helped develop a model of spatial localized plasticity. Inputs that were localized along the dendritic branch and correlated in time caused the largest changes in synaptic plasticity. One such simulation can be seen as a video below:
 
-<video src="https://github.com/dbpoll/test/blob/main/diffusion_dt10.mp4" />
+
+https://github.com/user-attachments/assets/cd7348db-b0ae-4427-8485-1763ee857f8f
+
+
 
   
 ### Estimation of Root Turnover 
