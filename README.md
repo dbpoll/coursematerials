@@ -72,7 +72,7 @@ I have unfortunately lost many of my digital materials from teaching at Northwes
 
 ### Differential Equations
 
-The differential equations course at Northwestern was called Engineering Analysis 4 (EA4). It covered most topics seen in a typical standard differential equations class. However, since the course was geared towards engineers, it heavily emphasized numerics as part of the course. A snippet of a couple days of hand-written lecture notes can be found here.
+The differential equations course at Northwestern was called Engineering Analysis 4 (EA4). It covered most topics seen in a typical standard differential equations class. However, since the course was geared towards engineers, it heavily emphasized numerics as part of the course. A snippet of a couple days of hand-written lecture notes can be found [here](ea4_notes.pdf).
 
 
 ## Previous and Potential Student Projects
