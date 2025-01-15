@@ -65,10 +65,8 @@ I have unfortunately lost many of my digital materials from teaching at Northwes
 
 ### Computational Neuroscience
 
-- simple hodgkin-huxley code
-- old videos if can be found
-- lecture slides (?)
-- example assignment
+The course focused on the development of neuroscience models, primarily starting with a first-principles approach of membrane potential and showing that it can be thought of as a circuit. Then, more complicated models, such as Hodgkin-Huxley and the cable equation were introduced and simulated. Towards the end, some additional topics were discussed and explored, such as models of associative memory using Hopfield networks, continuum firing rate models such as bump attractors, and simulating ion channels using Markov chains.
+
 
 ### Differential Equations
 
