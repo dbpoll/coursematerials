@@ -79,7 +79,7 @@ Previously, I ran an independent study for a mathematics and biology undergradua
 
 ### Localized Enhancement of Synaptic Plasticity
 
-As part of my work at Northwestern, an undergraduate student helped develop a model of spatial localized plasticity. Inputs that were localized along the dendritic branch and correlated in time caused the largest changes in synaptic plasticity. One such simulation can be seen as a video below:
+As part of my work at Northwestern, an undergraduate student helped develop a model of spatial localized plasticity. Voltage and calcium signals were modeled. Inputs that were localized along the dendritic branch and correlated in time caused the largest changes in synaptic plasticity. One such simulation can be seen as a video below:
 
 
 https://github.com/user-attachments/assets/f026a3a3-eba4-499c-88e7-b8d07979a71a
